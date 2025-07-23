@@ -1,4 +1,4 @@
-<h1 align="center">🌐 Campus Connect</h1>
+<h1 align="center">🌐 Campus Connect-Unified College Dashboard Platform</h1>
 <p align="center">
   🚀 A Full-Stack College Communication Platform <br/>
   🏆 <strong>3rd Place Winner</strong> – Inter-College Hackathon 2025
